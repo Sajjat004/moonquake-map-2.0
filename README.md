@@ -1,1 +1,1 @@
-# moonquake-map-2.0
+# moonquake_map_2.0
